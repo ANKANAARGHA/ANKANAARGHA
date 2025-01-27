@@ -53,7 +53,7 @@
 ###
 
 <br clear="both">
-
+<p><img align="center" src="https://media.istockphoto.com/id/1203104574/vector/outline-kolkata-india-city-skyline-with-historic-buildings-and-reflections-isolated-on-white.jpg?s=612x612&w=0&k=20&c=v4MeFecq2lWbhOkh0aMYuZVBWBilq5OVz76p4lRsFCI=" alt="arghaalex" /></p>
 
 
 ###
