@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 <h2 align="left">Hi 👋! My name is Ankana Dey  ❤️and I'm a cyber security Engineer, from Bardhaman</h2>
+- 🔭 I’m currently working on Cyber security
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Pen. Testing......
+- 📫 How to reach me: deyankana983@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: My BoyFriend .........(Arg**) 
 
 ###
 
