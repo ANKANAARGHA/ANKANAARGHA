@@ -54,7 +54,7 @@
 
 <br clear="both">
 <br>
-<p><img align="center" src="https://www.shutterstock.com/image-vector/kolkata-skyline-monuments-famous-architecture-260nw-2389565695.jpg" alt="arghaalex" /></p>
+<p><img align="center" src="https://c8.alamy.com/comp/GADE8F/vector-illustration-of-the-skyline-of-kolkata-india-GADE8F.jpg" alt="arghaalex" /></p>
 
 
 ###
